@@ -2,7 +2,7 @@
 
 require_once 'util/globals.php';
 
-const SECRET_KEY = 'a8c3fce6-8df7-4fd6-a1fd-62fa229c5e55';
+const SECRET_KEY = 'dbc5a498-9a66-43b9-bf1d-a618dd399684';
 const BASE_URL = 'https://api-test.wirecard.com';
 const DEMO_IBAN = "DE42512308000000060004";
 const BIC = "WIREDEMMXXX";
